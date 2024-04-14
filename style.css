@@ -58,7 +58,7 @@ body {
 }
 
 #panel gradient {
-    background: linear-gradient(90deg, #6666ff, #0099ff, #00ff00, #0099ff, #6666ff);
+    background: linear-gradient(90deg, #9462e4, #aa66eb, #bf6af2, #d56df8, #ea71fd);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: rainbow_animation 6s ease-in-out infinite;
